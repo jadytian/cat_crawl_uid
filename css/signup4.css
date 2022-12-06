@@ -1,0 +1,71 @@
+.e20_445 { 
+	overflow:hidden;
+}
+.e20_445 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:393px;
+	height:852px;
+	position:absolute;
+}
+.e20_446 { 
+	color:rgba(235.0000011920929, 147.00000643730164, 38.0000015348196, 1);
+	width:310px;
+	height:58px;
+	position:absolute;
+	left:42px;
+	top:152px;
+	font-family:Lexend;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e20_448 { 
+	background-color:rgba(235.0000011920929, 147.00000643730164, 38.0000015348196, 1);
+	width:393px;
+	height:88px;
+	position:absolute;
+	left:0px;
+	top:764px;
+}
+.e20_449 { 
+	color:rgba(255, 255, 255, 1);
+	width:195px;
+	height:24px;
+	position:absolute;
+	left:99px;
+	top:795px;
+	font-family:Lexend;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e20_452 { 
+	background-color:rgba(235.0000011920929, 147.00000643730164, 38.0000015348196, 1);
+	width:393px;
+	height:88px;
+	position:absolute;
+	left:0px;
+	top:764px;
+}
+.e20_453 { 
+	color:rgba(255, 255, 255, 1);
+	width:257px;
+	height:24px;
+	position:absolute;
+	left:71px;
+	top:795px;
+	font-family:Lexend;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e20_455 { 
+	width:222px;
+	height:234px;
+	position:absolute;
+	left:86px;
+	top:426px;
+	background-image:url(../images/screen_shot_2022_11_29_at_4_56_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
