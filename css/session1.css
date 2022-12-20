@@ -110,7 +110,28 @@ a.navlink:hover
 	font-size:9px;
 	letter-spacing:0;
 }
-
+.e76_109 {
+	color: rgba(0, 0, 0, 1);
+	width: 349px;
+	height: 29px;
+	position: absolute;
+	left: 15px;
+	top: 58px;
+	font-family: Lexend;
+	text-align: left;
+	font-size: 20px;
+	letter-spacing: 0;
+}
+.e76_110 {
+	width: 23px;
+	height: 22px;
+	position: absolute;
+	left: 351px;
+	top: 61px;
+	background-image: url(../images/120704_200_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 .e56_277_1 { 
 	color:rgba(0, 0, 0, 1);
 	width:62px;
