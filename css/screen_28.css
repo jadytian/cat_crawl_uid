@@ -40,7 +40,7 @@ body {
   border-top-right-radius: 15px;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
   overflow: hidden;
 }
 .yz1_5 {
@@ -161,7 +161,7 @@ body {
   position: absolute;
   top: 89px;
   left: 24px;
-
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
   font-family: Lexend;
   font-weight: Regular;
   font-size: 20px;
@@ -177,6 +177,7 @@ body {
   position: absolute;
   top: 36px;
   left: 41px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
   font-family: Lexend;
   font-weight: Medium;
   font-size: 20px;
@@ -264,6 +265,7 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
+  border: 1px solid rgba(0,0,0,1);
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
